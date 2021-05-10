@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>2021041606361716185297778810001_jpg.rf.d0b0af234a749f0b0ff9faeb5ef7ea48.jpg</filename>
+	<path>C:\Tensorflow1\models\research\object_detection\images\test\2021041606361716185297778810001_jpg.rf.d0b0af234a749f0b0ff9faeb5ef7ea48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bo Viet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>159</ymin>
+			<xmax>144</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

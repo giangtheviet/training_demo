@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'Anh Bong'
+}
+
+item {
+    id: 2
+    name: 'Ba Mac'
+}
+
+item {
+    id: 3
+    name: 'Bo Viet'
+}
+
+item {
+    id: 4
+    name: 'Me Giang'
+}

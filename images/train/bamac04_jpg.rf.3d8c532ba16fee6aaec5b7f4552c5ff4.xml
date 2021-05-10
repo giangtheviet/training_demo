@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>bamac04_jpg.rf.3d8c532ba16fee6aaec5b7f4552c5ff4.jpg</filename>
+	<path>C:\Tensorflow1\models\research\object_detection\images\train\bamac04_jpg.rf.3d8c532ba16fee6aaec5b7f4552c5ff4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ba Mac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>112</ymin>
+			<xmax>250</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

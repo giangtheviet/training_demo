@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20210425170531_jpg.rf.b800e02bb5c531420e1e4f0a2ee4e1c6.jpg</filename>
+	<path>C:\Tensorflow1\models\research\object_detection\images\train\20210425170531_jpg.rf.b800e02bb5c531420e1e4f0a2ee4e1c6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Me Giang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>105</ymin>
+			<xmax>145</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

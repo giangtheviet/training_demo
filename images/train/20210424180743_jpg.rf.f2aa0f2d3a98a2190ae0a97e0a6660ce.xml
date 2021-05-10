@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ba Mac</folder>
+	<filename>20210424180743_jpg.rf.f2aa0f2d3a98a2190ae0a97e0a6660ce.jpg</filename>
+	<path>C:\Users\84912\Desktop\Ba Mac\20210424180743_jpg.rf.f2aa0f2d3a98a2190ae0a97e0a6660ce.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ba Mac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>210</ymin>
+			<xmax>370</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

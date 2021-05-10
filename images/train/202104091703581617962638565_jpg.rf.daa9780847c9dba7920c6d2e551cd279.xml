@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>202104091703581617962638565_jpg.rf.daa9780847c9dba7920c6d2e551cd279.jpg</filename>
+	<path>C:\Tensorflow1\models\research\object_detection\images\train\202104091703581617962638565_jpg.rf.daa9780847c9dba7920c6d2e551cd279.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bo Viet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>305</ymin>
+			<xmax>175</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

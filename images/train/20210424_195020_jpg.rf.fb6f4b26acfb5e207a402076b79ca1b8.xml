@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ba Mac</folder>
+	<filename>20210424_195020_jpg.rf.fb6f4b26acfb5e207a402076b79ca1b8.jpg</filename>
+	<path>C:\Users\84912\Desktop\Ba Mac\20210424_195020_jpg.rf.fb6f4b26acfb5e207a402076b79ca1b8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Me Giang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>174</ymin>
+			<xmax>198</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Anh Bong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>152</ymin>
+			<xmax>301</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

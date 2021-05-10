@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WIN_20210415_19_30_12_Pro_jpg.rf.5cb9ea6f6bb994c7bbe21aae1f6ae5c3.jpg</filename>
+	<path>C:\Tensorflow1\models\research\object_detection\images\train\WIN_20210415_19_30_12_Pro_jpg.rf.5cb9ea6f6bb994c7bbe21aae1f6ae5c3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anh Bong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>96</ymin>
+			<xmax>371</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bo Viet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>97</ymin>
+			<xmax>258</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>
